@@ -3,7 +3,7 @@ title: 'Vue-Router'
 date: 2020-08-20
 sidebar: 'auto'
 categories:
- - 前端笔记
+ - Vue学习笔记
 tags:
  - vue
  - vue-router

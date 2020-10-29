@@ -3,7 +3,7 @@ title: 'VueX'
 date: 2020-08-25
 sidebar: 'auto'
 categories:
- - 前端笔记
+ - Vue学习笔记
 tags:
  - vue
  - vuex

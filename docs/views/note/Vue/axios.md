@@ -3,7 +3,7 @@ title: 'Axios'
 date: 2020-09-01
 sidebar: 'auto'
 categories:
- - 前端笔记
+ - Vue学习笔记
 tags:
  - vue
  - axios
