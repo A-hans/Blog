@@ -16,6 +16,9 @@ tags:
 
 ### 环境参数
 
+项目源码：<https://github.com/A-hans/supermall>  
+项目地址：<http://47.115.119.92/>
+
 + vue 2.6
 + vue-router 3.4.4
 + vuex 3.5.1
@@ -24,8 +27,7 @@ tags:
 + fastclick 1.0.6
 + better-scroll 2.0.4
 
-项目源码：<https://github.com/A-hans/supermall>  
-项目地址：<http://47.115.119.92/>
+
 
 ## 项目中遇到的问题
 

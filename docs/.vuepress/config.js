@@ -49,8 +49,8 @@ module.exports = {
       lastUpdated: '上次更新时间', // string | boolean
     //添加评论
     valineConfig: {
-      appId: '',// your appId
-      appKey: '', // your appKey
+      appId: 'xxx',// your appId
+      appKey: 'xxxx', // your appKey
       recordIP: true,
       placeholder: '填写邮箱地址一起交流学习...',
       visitor: true,
