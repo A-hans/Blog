@@ -4,7 +4,7 @@ heroText: Hans
 bgImageStyle: {
   height: '70vh'
 }
-tagline: 笔记不仅是知识的记录，更是成长的记录！
+tagline: 悄悄变强大！
 actionText: 开始查阅 →
 actionLink: /note/
 features:
@@ -14,7 +14,7 @@ features:
   details: 思考是对基础知识的挖掘探索和深入理解，将自己对知识的理解、疑问、发现等记录下来，这是记笔记中最重要的部分，是要加深对知识的理解、消化。 
 - title: 总结
   details: 总结是对基础知识深入思考之后，取其精华、去其糟粕，将知识化繁为简，有了自己的认知，并能够在实践中应用。
-footer: MIT Licensed | Copyright © 2020-present Hanser Lee
+footer: MIT Licensed | Copyright © 2021-present Hans Lee
 
 
 ---

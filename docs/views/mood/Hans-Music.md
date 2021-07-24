@@ -1,5 +1,5 @@
 ---
-title: 'Hans-Music-我的第一个手写Vue项目'
+title: 'Hans-Music-不一样的网易云音乐'
 date: 2021-02-10
 sidebar: 'auto'
 categories:
